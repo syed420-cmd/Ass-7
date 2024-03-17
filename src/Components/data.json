@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+      
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+    },
+    {
+      "id": 5,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+    },
+    {
+      "id": 6,
+      "name": "Spaghetti",
+      "des":"Classic Italian pasta dish with savory meat sauce.",
+      "ingrediants":["500g ground beef","onion chopped", " 2 cloves garlic minced"],
+      "time": "30min",
+      "cal":"600"
+    }
+  ]
+  
